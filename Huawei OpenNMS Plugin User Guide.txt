@@ -5,11 +5,11 @@ The OpenNMS plug-in can monitor Huawei severs.The major functions are as follows
 2,Monitor server SNMP Node Data: System Cpu Usage, System Power, Inlet Temperature.
 
 Huawei Server Compatibility:
-Supported Huawei servers: E9000 Chassis,RH1288 V3, RH2288H V2, RH2288H V3, RH2288H V3, RH5885 V3, RH5885H V3, RH8100 V3, X6000, X6000.
+Supported Huawei servers: E9000 Chassis,RH1288 V3, RH2288H V2, RH2288 V3, RH2288H V3, RH5885 V3, RH5885H V3, X6000, X6800.
 
 Prerequisites:
 1, OpenNMS 19.0.1 or later has been installed. 
-2, You have obtained the Huawei OpenNMS plug-in installation package,download from:https://github.com/Huawei/Server_Manage_Plugin
+2, You have obtained the Huawei OpenNMS plug-in installation package,download from:https://github.com/Huawei/Server_Management_Plugin_OpenNMS
 
 Installation£º
 1,Log in to the OpenNMS server as root user.
