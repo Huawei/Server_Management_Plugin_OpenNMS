@@ -13,11 +13,11 @@ I. General Information
 
 II. Description
 
-    The OpenNMS Plugin is a plug-in for monitoring Huawei Server
+    The OpenNMS Plugin is a plug-in for monitoring Huawei Server
     
 III.Supported Software Version
 
-    Horizon Distribution OpenNMS 19.0.1 or later(only for Linux)
+    Horizon Distribution OpenNMS 19.0.1 or later(only for Linux)
 	
 IV.Supported Device
 
